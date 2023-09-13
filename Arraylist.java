@@ -1,6 +1,6 @@
 import java.util.*;
-/**
- * Syntax resource used : https://www.geeksforgeeks.org/arraylist-in-java/
+/** 
+ * Coded by Dhanush Adithya, Syntax resource used : https://www.geeksforgeeks.org/arraylist-in-java/
  */
 public class Arraylist {
     public void arraylist()
