@@ -18,6 +18,9 @@ public class Main {
 
         Arraylist array = new Arraylist();
         array.arraylist();
+        
+        Lists list = new Lists();
+        list.lists();
     }
 
 }
