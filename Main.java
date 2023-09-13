@@ -12,9 +12,12 @@ public class Main {
 
     public static void main(String[] args){
         //call each example, with any neccessary explanations
-
+        
         LinkedListEx linked_example = new LinkedListEx();
         LinkedListEx.run();
+
+        Arraylist array = new Arraylist();
+        array.arraylist();
     }
 
 }
