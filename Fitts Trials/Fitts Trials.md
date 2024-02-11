@@ -1,0 +1,7 @@
+# Fitts' Trials
+
+You should also turn in a 1 paragraph explanation about what you think might change concerning Fitts' Law and other ways of interacting with technology. Do you think VR, AR, and other new emerging technologies will have a significant impact?
+
+**Answer:**
+
+Fitts' law is a pretty old standard to predict and model human movements regarding UI elements and a "measure" of ergonomics. However, Fitts law only looks at the sheer motor ability of a person that is exercised. It does not account for the usefulness as well as the cognitive factors involved such as visual attention to a element and tactical placement of UI. Fitts' law does account for the point-and-click version of user input but does not account for low latency UI elements in AR/VR where eye-tracking and hand gesture is key. A Fitts' law test does not include dynamic objects and only includes static objects. This may pose a problem in clicking some UI elements which may move (like the satellite's position moves in real time in my satellite tracker, which the law cannot account for). And finally, Fitts' law does not account for users' learning and adaptation over time. Integrating learning curves or adapting parameters based on user experience could better model how users improve their performance with repeated interactions. 
